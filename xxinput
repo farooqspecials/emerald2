@@ -1,0 +1,51 @@
+unset dogeneration
+set dotypecheck
+unset exporttree
+set compilingbuiltins
+../Builtins/Integer.m
+../Builtins/AOpVec.m
+../Builtins/AParamL.m
+../Builtins/AOpVecE.m
+../Builtins/AType.m
+../Builtins/Any.m
+../Builtins/Bitchunk.m
+../Builtins/Boolean.m
+../Builtins/COpVec.m
+../Builtins/COpVecE.m
+../Builtins/CType.m
+../Builtins/Char.m
+../Builtins/Cond.m
+../Builtins/Handler.m
+../Builtins/IState.m
+../Builtins/IVOfAny.m
+../Builtins/IVOfInt.m
+../Builtins/RISC.m
+../Builtins/String.m
+../Builtins/InStr.m
+../Builtins/Literal.m
+../Builtins/NLElem.m
+../Builtins/Nil.m
+../Builtins/Node.m
+../Builtins/NodeL.m
+../Builtins/OutStr.m
+../Builtins/RISA.m
+../Builtins/Real.m
+../Builtins/Signat.m
+../Builtins/Stub.m
+../Builtins/Time.m
+../Builtins/VOfChar.m
+../Builtins/VOfInt.m
+../Builtins/VOfAny.m
+../Builtins/VOfStr.m
+../Builtins/IVOfStr.m
+../Builtins/Direct.m
+set exporttree
+../Builtins/IVec.m
+../Builtins/Vec.m
+../Builtins/Array.m
+../Builtins/Sequence.m
+unset compilingbuiltins
+set dogeneration
+set perfile
+set generateconcurrent
+checkpoint bestCP
